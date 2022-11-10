@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">BottomNav_Fragments</string>
+    <string name="start">Start</string>
+    <string name="title">CLICK THE START BUTTON TO VIEW FRAGMENTS</string>
+    <string name="one">One</string>
+    <string name="second">Second</string>
+    <string name="third">Third</string>
+</resources>

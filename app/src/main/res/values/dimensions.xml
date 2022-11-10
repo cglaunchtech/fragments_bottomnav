@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="margin">24dp</dimen>
+    <dimen name="text">24sp</dimen>
+    <dimen name="five">5dp</dimen>
+    <dimen name="two">2dp</dimen>
+    <dimen name="threetwo">5dp</dimen>
+</resources>
