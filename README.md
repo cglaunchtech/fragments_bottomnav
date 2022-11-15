@@ -1,6 +1,6 @@
 # fragments_bottomnav
 
-Bottom Navigation with Fragments and Fragment Container
+Bottom Navigation with Fragments and Fragment Container. Gradient for button backgrounds.
 
 <p align="center">
 <img src="bottom_nav_1.png" width=356 height=719>
